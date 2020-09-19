@@ -1,0 +1,48 @@
+body {
+    color: #fff !important;
+    background:url("../../images/fur.jpg") !important;
+    background-color: black !important;
+    background-repeat:no-repeat !important;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h2{
+    color:#fff !important;
+}
+#footer{
+    background-color:#fff;
+    color:black;
+}
+.aoTUt{
+    right: -40px !important;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.dHQcjo {
+    left:-40px !important;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .sheet_name{
+      color: black;
+      font-weight: 600;
+      text-transform: capitalize;
+      text-align: center;
+  }

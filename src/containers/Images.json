@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "src": "../assets/images/1.jpg",
+            "thumbnail": "../assets/images/1.jpg",
+            "tags": [
+                {
+                    "value": "Kitchen",
+                    "title": "Kitchen"
+                }
+            ]
+        },
+        {
+            "src": "require('../assets/images/1.jpg')",
+            "thumbnail": " require('../assets/images/1.jpg')",
+            "tags": [
+                {
+                    "value": "Kitchen",
+                    "title": "Kitchen"
+                }
+            ]
+        }
+    ]
+}
