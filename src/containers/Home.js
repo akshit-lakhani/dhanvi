@@ -63,8 +63,8 @@ export default class Home extends Component {
                                         <div className="team-item">
                                             <h4>Dinesh Lakhani has around 10 Years of experience in this field.</h4>
                                             <ul className="social-icon">
-                                                <li><Link to="#" className="fa fa-linkedin-square"></Link></li>
-                                                <li><Link to="#" className="fa fa-envelope-o"></Link></li>
+                                                <li><Link to="" className="fa fa-linkedin-square"></Link></li>
+                                                <li><Link to="" className="fa fa-envelope-o"></Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -81,8 +81,8 @@ export default class Home extends Component {
                                         <div className="team-item">
                                             <h4>Jignesh Lavani has new unique ideas about furniture making.</h4>
                                             <ul className="social-icon">
-                                                <li><Link to="#" className="fa fa-instagram"></Link></li>
-                                                <li><Link to="#" className="fa fa-flickr"></Link></li>
+                                                <li><Link to="" className="fa fa-instagram"></Link></li>
+                                                <li><Link to="" className="fa fa-flickr"></Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -278,7 +278,7 @@ export default class Home extends Component {
                                         <h2>Contact Us</h2>
                                     </div>
                                 </div>
-                                <form action="#" method="post" className="wow fadeInUp" id="contact-form" role="form" data-wow-delay="0.8s">
+                                {/* <form action="#" method="post" className="wow fadeInUp" id="contact-form" role="form" data-wow-delay="0.8s">
                                     <h6 className="text-success">Your message has been sent successfully.</h6>
                                     <h6 className="text-danger">E-mail must be valid and message must be longer than 1 character.</h6>
                                     <div className="col-md-6 col-sm-6">
@@ -292,7 +292,7 @@ export default class Home extends Component {
                                         <textarea className="form-control" rows="6" id="cf-message" name="message" placeholder="Tell about your project"></textarea>
                                         <button type="submit" className="form-control" id="cf-submit" name="submit">Send Message</button>
                                     </div>
-                                </form>
+                                </form> */}
                             </div>
                         </div>
                     </div>

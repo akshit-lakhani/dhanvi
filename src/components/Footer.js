@@ -47,14 +47,14 @@ export default class Footer extends Component {
                         </div>
                         <div className="col-md-2 col-sm-4">
                             <ul className="wow fadeInUp social-icon" data-wow-delay="0.4s">
-                                <li><Link to="#" className="fa fa-facebook-square" attr="facebook icon"></Link></li>
-                                <li><Link to="#" className="fa fa-twitter"></Link></li>
-                                <li><Link to="#" className="fa fa-instagram"></Link></li>
-                                <li><Link to="#" className="fa fa-google"></Link></li>
+                                <li><Link to="" className="fa fa-facebook-square" attr="facebook icon"></Link></li>
+                                <li><Link to="" className="fa fa-twitter"></Link></li>
+                                <li><Link to="" className="fa fa-instagram"></Link></li>
+                                <li><Link to="" className="fa fa-google"></Link></li>
                             </ul>
                             <div className="wow fadeInUp copyright-text" data-wow-delay="0.8s">
                                 <p><br />Copyright &copy; 2020 <br />Dhanvi Furniture
-                      <br /><br />Designed By: <br /><Link rel="nofollow" href="http://templatemo.com" target="_parent">Axito Planet</Link></p>
+                      <br /><br />Designed By: <br /><Link rel="nofollow" to="http://templatemo.com" target="_parent">Axito Planet</Link></p>
                             </div>
                         </div>
                     </div>

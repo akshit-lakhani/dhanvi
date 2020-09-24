@@ -14,7 +14,7 @@ export default class Header extends Component {
                                 <span className="icon icon-bar"></span>
                                 <span className="icon icon-bar"></span>
                             </button>
-                            <Link to="index.html" className="navbar-brand">Dhanvi <span>.</span> Furniture</Link>
+                            <Link to="/" className="navbar-brand">Dhanvi <span>.</span> Furniture</Link>
                         </div>
                         <div>
                             <ul className="menu-container nav navbar-nav-first">
