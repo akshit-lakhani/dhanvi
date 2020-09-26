@@ -44,7 +44,7 @@ h3, h3 a {
 }
 
 p {
-  color: #757575;
+  color:gray;
   font-size: 14px;
   font-weight: normal;
   line-height: 24px;
@@ -613,8 +613,8 @@ section {
   -----------------------------------------*/
 
 #testimonial {
-  background: url('../../images/testimonial-bg.jpg') center center no-repeat;
-  background-size: cover;
+  background: url('../../images/dhanvi.jpeg') center center no-repeat;
+  background-size: contain;
 }
 
 #testimonial .owl-dots {
@@ -723,7 +723,7 @@ footer h2 {
 }
 
 footer a, footer p {
-  color: #909090;
+  color: gray;
 }
 
 footer strong {
@@ -849,10 +849,7 @@ footer address p {
   #menu .menu-thumb {
     width: 103%;
   }
-  #testimonial {
-    background-position: 50% 0 !important;
-  }
-  #google-map, .footer-info {
+  #google-map {
     margin-bottom: 50px;
   }
 }
@@ -886,11 +883,11 @@ footer address p {
     padding: 10px;
   }
   .custom-navbar .navbar-brand, .top-nav-collapse .navbar-brand {
-    color: #252525;
+    color: #fff;
     font-weight: 600;
   }
   .custom-navbar .nav li a, .top-nav-collapse .nav li a {
-    color: #575757;
+    color: white;
   }
   .custom-navbar .navbar-nav.navbar-right li {
     display: inline-block;

@@ -25,8 +25,7 @@ export default class Footer extends Component {
                                 </div>
                                 <address className="wow fadeInUp" data-wow-delay="0.4s">
                                     <p>98249 14422 | 99049 53176</p>
-                                    <p><Link to="mailto:info@company.com">info@company.com</Link></p>
-                                    <p>LINE: eatery247 </p>
+                                    <p><Link to="mailto:info@company.com">dhanvifurniture@gmail.com</Link></p>
                                 </address>
                             </div>
                         </div>

@@ -8,7 +8,7 @@ export default class GalleryImg extends Component {
     render() {
         return (
             <div>
-                <Header />
+                <Header active="gallery" />
                 <div className="container py-5">
                     <div className="row">
                         {constants.map((constants, index) => (

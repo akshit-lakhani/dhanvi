@@ -21,8 +21,8 @@ body {
   .card-container {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
-    background-color: #ce3232;
-    color:#fff;
+    background-color: #fff;
+    color:#000;
   }
   
   .about-section {
@@ -67,4 +67,7 @@ body {
       width: 100%;
       display: block;
     }
+  }
+  .work-heading{
+    color:#ce3232;
   }
