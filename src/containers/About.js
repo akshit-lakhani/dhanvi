@@ -44,7 +44,7 @@ export default class About extends Component {
                             <div class="col-xs-6 col-md-4">
                                 <div class="company-icons-white">
                                     <i class="fa fa-money" aria-hidden="true"></i>
-                                    <p className="work-heading">Cupboard</p>
+                                    <p className="work-heading">CUPBOARD</p>
                                     <p class="company-icons-subtext hidden-xs">
                                         We have different types of sheets to make Cupboard.
                                         We can make make Cupboard on Marbles and fully with MDF Modular Wooden sheet.
@@ -54,7 +54,7 @@ export default class About extends Component {
                             <div class="col-xs-6 col-md-4">
                                 <div class="company-icons-white">
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                    <p className="work-heading">Ceiling Cupboard</p>
+                                    <p className="work-heading">CEILING CUPBOARD</p>
                                     <p class="company-icons-subtext hidden-xs">
                                         We are making Ceiling Cupboard as well. Which looks fully furnished to your home.
                                         </p>
@@ -65,7 +65,7 @@ export default class About extends Component {
                             <div class="col-xs-6 col-md-4">
                                 <div class="company-icons-white">
                                     <i class="fa fa-coffee" aria-hidden="true"></i>
-                                    <p className="work-heading">TV Unit</p>
+                                    <p className="work-heading">TV UNIT</p>
                                     <p class="company-icons-subtext hidden-xs">
                                         We are making attractive and nice looking TV Unit.
                                         Which will give you better experience while watching TV.
@@ -75,7 +75,7 @@ export default class About extends Component {
                             <div class="col-xs-6 col-md-4">
                                 <div class="company-icons-white">
                                     <i class="fa fa-gamepad" aria-hidden="true"></i>
-                                    <p className="work-heading">Coffee Table / T-Poi</p>
+                                    <p className="work-heading">COFFEE TABLE / T-POI</p>
                                     <p class="company-icons-subtext hidden-xs">
                                         We are making T-poi or Coffee table as well.
                                         Which will make lucrative to center of your seating area.
@@ -85,7 +85,7 @@ export default class About extends Component {
                             <div class="col-xs-6 col-md-4">
                                 <div class="company-icons-white">
                                     <i class="fa fa-cutlery" aria-hidden="true"></i>
-                                    <p className="work-heading">Drawer</p>
+                                    <p className="work-heading">DRAWER</p>
                                     <p class="company-icons-subtext hidden-xs">
                                         We are making Drawer which help you to store your small things at one and better place.
                                         We are making lockable Drawers as well which will make safe your things.

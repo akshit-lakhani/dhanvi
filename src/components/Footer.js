@@ -14,6 +14,7 @@ export default class Footer extends Component {
                                     <h2 className="wow fadeInUp" data-wow-delay="0.2s">Find us</h2>
                                 </div>
                                 <address className="wow fadeInUp" data-wow-delay="0.4s">
+                                    <strong>Address Info</strong>
                                     <p>Shop, No. 9.<br />Mahek Residency,<br />opposite Haridarshan no Khado, <br />causway Road,<br />Surat,<br />395004.</p>
                                 </address>
                             </div>
@@ -24,8 +25,9 @@ export default class Footer extends Component {
                                     <h2 className="wow fadeInUp" data-wow-delay="0.2s">Reservation</h2>
                                 </div>
                                 <address className="wow fadeInUp" data-wow-delay="0.4s">
+                                    <strong>Contact Info</strong>
                                     <p>98249 14422 | 99049 53176</p>
-                                    <p><Link to="mailto:info@company.com">dhanvifurniture@gmail.com</Link></p>
+                                    <p>dhanvifurniture@gmail.com</p>
                                 </address>
                             </div>
                         </div>
@@ -53,7 +55,7 @@ export default class Footer extends Component {
                             </ul>
                             <div className="wow fadeInUp copyright-text" data-wow-delay="0.8s">
                                 <p><br />Copyright &copy; 2020 <br />Dhanvi Furniture
-                      <br /><br />Designed By: <br /><Link rel="nofollow" to="http://templatemo.com" target="_parent">Axito Planet</Link></p>
+                      <br /><br />Designed By: <br /><Link to="" target="_parent">Axito Planet</Link></p>
                             </div>
                         </div>
                     </div>
