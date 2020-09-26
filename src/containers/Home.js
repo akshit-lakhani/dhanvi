@@ -2,22 +2,9 @@ import React, { Component } from 'react';
 import Header from '../components/Header';
 import { Link } from "react-router-dom";
 import Footer from '../components/Footer';
-import Carousel from 'react-items-carousel';
-import sheet from '../sheet';
 
 export default class Home extends Component {
-    componentWillMount() {
-        this.setState({
-            activeItemIndex: 0,
-        });
-    }
-
-
-    changeActiveItem = (activeItemIndex) => this.setState({ activeItemIndex });
     render() {
-        const {
-            activeItemIndex,
-        } = this.state;
         return (
             <React.Fragment>
                 <Header active="home" />
