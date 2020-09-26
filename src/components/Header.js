@@ -19,10 +19,10 @@ export default class Header extends Component {
                         <div>
                             <ul className="menu-container nav navbar-nav-first">
 
-                                <li className={this.props.active == "home" ? "active" : ""}><Link to="/" className="smoothScroll">Home</Link></li>
-                                <li className={this.props.active == "gallery" ? "active" : ""}><Link to="gallery" className="smoothScroll">Gallery</Link></li>
-                                <li className={this.props.active == "sheet" ? "active" : ""}><Link to="sheets" className="smoothScroll">Sheets</Link></li>
-                                <li className={this.props.active == "about" ? "active" : ""}><Link to="/about-us" className="smoothScroll">About</Link></li>
+                                <li className={this.props.active === "home" ? "active" : ""}><Link to="/" className="smoothScroll">Home</Link></li>
+                                <li className={this.props.active === "gallery" ? "active" : ""}><Link to="gallery" className="smoothScroll">Gallery</Link></li>
+                                <li className={this.props.active === "sheet" ? "active" : ""}><Link to="sheets" className="smoothScroll">Sheets</Link></li>
+                                <li className={this.props.active === "about" ? "active" : ""}><Link to="/about-us" className="smoothScroll">About</Link></li>
                             </ul>
                         </div>
                     </div>
