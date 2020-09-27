@@ -15,8 +15,8 @@ export default class About extends Component {
                             <div class="red-border"></div>
                             <p class="ct-u-size22 ct-u-fontWeight300 marginTop40">
                                 We are making furniture in MDF Modular Plywood, Which is manufacturing by Action TESA company.
-                                We started our work from 2012. It's been a long time. Our Workers are very talented and experince
-                                in this field. You will never complain about them.
+                                We started our work from 2012. It's been a long time. Our Workers are very talented and experinced
+                                in this field. You will never complain about them. We give best service you will never regret choosing us for your furniture.
                                 </p>
                         </div>
                     </div>
@@ -37,7 +37,7 @@ export default class About extends Component {
                                     <i class="fa fa-medkit" aria-hidden="true"></i>
                                     <p className="work-heading">KITCHEN FURNITURE</p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        We are making kitchen furniture with different types of trollies.
+                                        We make kitchen furniture with different types of trollies.
                                         </p>
                                 </div>
                             </div>
@@ -56,7 +56,7 @@ export default class About extends Component {
                                     <i class="fa fa-clock-o" aria-hidden="true"></i>
                                     <p className="work-heading">CEILING CUPBOARD</p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        We are making Ceiling Cupboard as well. Which looks fully furnished to your home.
+                                        We make Ceiling Cupboard as well. Which looks fully furnished to your home.
                                         </p>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@ export default class About extends Component {
                                     <i class="fa fa-coffee" aria-hidden="true"></i>
                                     <p className="work-heading">TV UNIT</p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        We are making attractive and nice looking TV Unit.
+                                        We make attractive and nice looking TV Unit.
                                         Which will give you better experience while watching TV.
                                         </p>
                                 </div>
@@ -77,7 +77,7 @@ export default class About extends Component {
                                     <i class="fa fa-gamepad" aria-hidden="true"></i>
                                     <p className="work-heading">COFFEE TABLE / T-POI</p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        We are making T-poi or Coffee table as well.
+                                        We make T-poi or Coffee table as well.
                                         Which will make lucrative to center of your seating area.
                                         </p>
                                 </div>
@@ -87,8 +87,8 @@ export default class About extends Component {
                                     <i class="fa fa-cutlery" aria-hidden="true"></i>
                                     <p className="work-heading">DRAWER</p>
                                     <p class="company-icons-subtext hidden-xs">
-                                        We are making Drawer which help you to store your small things at one and better place.
-                                        We are making lockable Drawers as well which will make safe your things.
+                                        We make Drawer which help you to store your small things at one and better place.
+                                        We make lockable Drawers as well which will make safe your things.
                                         </p>
                                 </div>
                             </div>

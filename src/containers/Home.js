@@ -18,8 +18,8 @@ export default class Home extends Component {
                                         <h2>We've been Making Furniture Since 2012</h2>
                                     </div>
                                     <div className="wow fadeInUp" data-wow-delay="0.4s">
-                                        <p>We have experience workers to make furniture. You can choose type of sheets in our type menu section.</p>
-                                        <p>If you have any Query you can contact us and visit our office at our place, Thank you.</p>
+                                        <p>We have experienced workers to make furniture. You can choose type of sheets in our type menu section.</p>
+                                        <p>If you have any queries you can contact us and visit our place, Thank you.</p>
                                     </div>
                                 </div>
                             </div>
